@@ -1,0 +1,3 @@
+rootProject.name = 'java-api-simplified'
+include 'apache-http-client'
+
